@@ -1,0 +1,284 @@
+[
+  {
+    "text":
+      "You're heading on a road trip with two of your friends! First up is the great state of Colorado. To start off strong, what do you want to do first?",
+    "image": "./images/winding-road.jpg",
+    "options": [
+      {
+        "text": "Take a day hike of the Chicago Lakes",
+        "send_to": 1
+      },
+      {
+        "text": "5am sunrise hike of the Great Sand Dunes National Park",
+        "send_to": 2
+      },
+      {
+        "text": "Spend the day in Denver exploring the city",
+        "send_to": 3
+      },
+      {
+        "text": "Find a dispensary",
+        "send_to": 3
+      }
+    ]
+  },
+  {
+    "text":
+      "The Chicago Lakes trail is a nice little hike to start off your trip with! What'll you tackle next?",
+    "image": "./images/chicago-lakes.jpg",
+    "options": [
+      {
+        "text": "5am sunrise hike of the Great Sand Dunes National Park",
+        "send_to": 2
+      },
+      {
+        "text": "Spend the day in Denver exploring the city",
+        "send_to": 3
+      },
+      {
+        "text": "Find a dispensary",
+        "send_to": 3
+      }
+    ]
+  },
+  {
+    "text":
+      "Your hike of the dunes was a real challenge, but you are rewarded with a glorious sunrise! Now that you've finished up with the dunes, where would you like to head next?",
+    "image": "./images/great-sand-dunes.jpg",
+
+    "options": [
+      {
+        "text": "VEGAS BABY!",
+        "send_to": 4
+      },
+      {
+        "text": "The Grand Canyon sounds worthwhile",
+        "send_to": 5
+      },
+      {
+        "text":
+          "Let's pop some caffeine pills and go til we hit San Fransisco!",
+        "send_to": 6
+      }
+    ]
+  },
+  {
+    "text":
+      "You had a great time in the city, one way or another ;) Where to next?",
+    "image": "./images/downtown-denver.jpg",
+    "options": [
+      {
+        "text": "VEGAS BABY!",
+        "send_to": 4
+      },
+      {
+        "text": "The Grand Canyon sounds worthwhile",
+        "send_to": 5
+      },
+      {
+        "text":
+          "Let's pop some caffeine pills and go til we hit San Fransisco!",
+        "send_to": 6
+      }
+    ]
+  },
+  {
+    "text":
+      "WOMPPPPP. Vegas was not kind to you, friend. Waking up in a cell is never a good look, better luck next trip.",
+    "image": "./images/jail.jpg",
+    "options": [
+      {
+        "text": "Get bailed out and start over",
+        "send_to": 0
+      }
+    ]
+  },
+  {
+    "text":
+      "The Grand Canyon was a spectacular call! Where is calling to you next?",
+    "image": "./images/grand-canyon.jpg",
+    "options": [
+      {
+        "text": "Gotta be Vegas",
+        "send_to": 4
+      },
+      {
+        "text": "Make those moves to San Fran",
+        "send_to": 6
+      }
+    ]
+  },
+  {
+    "text":
+      "You've made it to San Fran and the Pacific Ocean, nice work! What do you want to do while you're in town?",
+    "image": "./images/san-fran.jpg",
+    "options": [
+      {
+        "text": "West Coast social dancing sounds like the thing to check out",
+        "send_to": 7
+      },
+      {
+        "text": "Gotta hit those tide pools early in the morning!",
+        "send_to": 8
+      },
+      {
+        "text": "Make moves for your friend's family home in Seattle",
+        "send_to": 9
+      }
+    ]
+  },
+  {
+    "text":
+      "Social dancing is fun and different, and you get to meet and dance with some very interesting people. Now that you've had a taste of nightlife, what's next?",
+    "image": "./images/social-dance.jpg",
+    "options": [
+      {
+        "text":
+          "Time to make moves to Seattle, where your friend's family home is",
+        "send_to": 9
+      },
+      {
+        "text": "Gotta check out the Redwoods",
+        "send_to": 10
+      }
+    ]
+  },
+  {
+    "text":
+      "Wow, nice choice. You got to see ~hella~ nifty creatures at the tide pools, and learned a ton about a delicate and interesting ecosystem! Where will the road take you next?",
+    "image": "./images/tidepools.jpg",
+    "options": [
+      {
+        "text": "Seattle baby",
+        "send_to": 9
+      },
+      {
+        "text": "Gotta check out the Redwoods",
+        "send_to": 10
+      }
+    ]
+  },
+  {
+    "text":
+      "Oh no! Looks like it got pretty dark while you were driving. You find a free campsite in an open field to stay at until morning, what do you want to do?",
+    "image": "./images/creepy-field.jpg",
+    "options": [
+      {
+        "text": "Sleep in the car",
+        "send_to": 12
+      },
+      {
+        "text": "Grab your sleeping bags and sleep under the stars",
+        "send_to": 12
+      },
+      {
+        "text": "Check out the field and set up your tent",
+        "send_to": 11
+      },
+      {
+        "text": "Pop some caffeine pills and keep truckin til you hit the city",
+        "send_to": 13
+      }
+    ]
+  },
+  {
+    "text":
+      "Just gorgeous! you got to play in the forest and view these famous gargantuan trees. Now, time to take a beat and relax once you get to your friend's house",
+    "image": "./images/redwoods.jpg",
+    "options": [
+      {
+        "text": "Head on up to Seattle!",
+        "send_to": 9
+      }
+    ]
+  },
+  {
+    "text":
+      "THAT WAS A CLOSE ONE! During your inspection of the campsite, you find a mountain lion on the perimeter of the field!!! Time to get back into the car and drive til morning, because you are now very wired from your near-death experience",
+    "image": "./images/cougar-sighting.jpg",
+    "options": [
+      {
+        "text": "Time to head to Seattle and an actual bed to sleep in",
+        "send_to": 13
+      }
+    ]
+  },
+  {
+    "text":
+      "Tragically, you've made a deadly choice. Unbeknowst to you and your friends, there was a hungry mountain lion sleeping on the edge of the field. You have all been torn to shreds... Maybe in your next life you'll learn to never trust nature, as she is a cruel and austere mistress. ",
+    "image": "./images/cougar-death.jpg",
+    "options": [
+      {
+        "text": "Womp womp womp",
+        "send_to": 0
+      }
+    ]
+  },
+  {
+    "text":
+      "Congrats on making it all the way to Seattle! While here, you do a virtual smorgasbord of things: check out the nightlife, hit up the famous Pike Place Market, catch up on sleep, and make it out to the mountains for some more hiking. Now that you're feeling reinvigorated, it's time to choose where you want to head on your way back east. What'll it be?",
+    "image": "./images/seattle.jpg",
+    "options": [
+      {
+        "text": "Glacier National Park",
+        "send_to": 14
+      },
+      {
+        "text": "Yellowstone",
+        "send_to": 15
+      },
+      {
+        "text": "The Badlands",
+        "send_to": 16
+      }
+    ]
+  },
+  {
+    "text":
+      "Wow, you crushed a 15 mile hike to see by far the most spectacular view of your trip so far, outstanding! Where are you off to once you've gotten a good night's sleep?",
+    "image": "./images/glacier.jpg",
+    "options": [
+      {
+        "text": "Yellowstone",
+        "send_to": 15
+      },
+      {
+        "text": "The Badlands",
+        "send_to": 16
+      }
+    ]
+  },
+  {
+    "text":
+      "Yellowstone is full of wildlife and adventure, including getting to swim in the river with a sexy Australian (niiiiice), as well as take some quality waterfall pictures! Are you ready for you last pit stop before heading home?",
+    "image": "./images/yellowstone.jpg",
+    "options": [
+      {
+        "text": "The Badlands",
+        "send_to": 16
+      }
+    ]
+  },
+  {
+    "text":
+      "You climb all over the badlands and learn that doing so is a precarious undertaking, but end up no worse for the wear! Are you ready for the last leg of driving before you finally make it back home?",
+    "image": "./images/badlands.jpg",
+    "options": [
+      {
+        "text": "Head to Chi city bay-bay",
+        "send_to": 17
+      }
+    ]
+  },
+  {
+    "text":
+      "You have successfully completed your road trip and are back home in Chicago! You saw some amazing sights and had some truly remarkable experiences along the way, and hopefully learned a thing or two about yourself and life along the way.",
+    "image": "./images/chicago.jpg",
+    "options": [
+      {
+        "text": "The road calls again",
+        "send_to": 0
+      }
+    ]
+  }
+]
